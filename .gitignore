@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/modern-d-swig
+modern-d-swig.so
+modern-d-swig.dylib
+modern-d-swig.dll
+modern-d-swig.a
+modern-d-swig.lib
+modern-d-swig-test-*
+*.exe
+*.o
+*.obj
+*.lst

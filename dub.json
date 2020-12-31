@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Loren Burkholder"
+	],
+	"copyright": "Copyright © 2020, Loren Burkholder",
+	"description": "Modernify D code created with Swig.",
+	"license": "MIT license",
+	"name": "modern-d-swig"
+}
